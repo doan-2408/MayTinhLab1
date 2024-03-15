@@ -225,6 +225,7 @@ public class mayTinh extends javax.swing.JFrame {
 
     private void txtSecondActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtSecondActionPerformed
         // TODO add your handling code here:
+        //haha
         
         
     }//GEN-LAST:event_txtSecondActionPerformed
